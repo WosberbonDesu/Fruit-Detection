@@ -1,5 +1,5 @@
 # Fruit-Detection
-![yolo-predictions](https://user-images.githubusercontent.com/69467096/113019717-92d6d800-918a-11eb-8556-244cf530767f.png)
+![shangyu-wang-render02](https://user-images.githubusercontent.com/69467096/113021239-0fb68180-918c-11eb-9fc4-8d760e79853f.jpg)
 
 :star: Real Time Fruit Detection
 ### real time fruit identifier
