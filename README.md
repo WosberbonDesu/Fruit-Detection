@@ -14,7 +14,7 @@
 9. Cherry
 10. Raspberry
 ### It is written in the explanations about the codes
-### dataset i use; https://www.kaggle.com/moltean/fruits
+# dataset i use; https://www.kaggle.com/moltean/fruits
 you can increase the layers to make the model more accurate
 ```python
 model.add(Dense(units = 256,activation = 'relu'))
